@@ -2,7 +2,7 @@
 This is the Demo for Git &amp; Github class.
 
 # Teacher 
-vijay mishra 
+Vijay Misrha  
 
-# Student
- Delta Student 
+# Student 
+student delta
